@@ -1,7 +1,7 @@
 const PopularProducts = () => {
   return (
     <div>
-      PopularProducts
+      PopularProducts new
     </div>
   )
 }
